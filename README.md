@@ -22,4 +22,6 @@ pip install -r requirements.txt
 
 
 ## Assistant trabajando 
-![Evidencia del assistant](./video/VideoProyecto.mp4)
+Aquí tienes una demostración del video:
+
+[Ver el video en Google Drive](https://drive.google.com/file/d/1oaJtihQexWl7a_AwkNkMIzXVvkMRpdxB/view?usp=sharing)
